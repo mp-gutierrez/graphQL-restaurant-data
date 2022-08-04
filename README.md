@@ -7,7 +7,7 @@
     Queries and mutations exercise worked with GraphQL
 <br>
 <h2>Installation</h2>
-    In order to run the program, all the files need to be downloaded into the same folder, keeping each file name and its extension intact. With the files in place, a simple drag-n-drop of the index.html file into a chromium-based browser will load it correctly.
+    In order to run the program, all the files need to be downloaded into the same directory. Then, the command line needs to be opened on the chosen directory and run 'npm install', followed by the command 'node index.js' (Node and npm need to be previously installed).
 <br>
 <h2>Support</h2>
     In case of requiring further assistance, you can contact me via Twitter @mpgutierrz
